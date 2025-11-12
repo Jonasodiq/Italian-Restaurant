@@ -1,4 +1,4 @@
-# Project 4 Restaurant
+# Italian Restaurant
 
 ### Develop
 
